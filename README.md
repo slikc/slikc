@@ -2,4 +2,13 @@
 slikc#0001
 </h1>
 
-<div align="center">![slikc's GitHub stats](https://github-readme-stats.vercel.app/api?username=slikc&show_icons=true&theme=radical)</div>
+<a href="https://github.com/slikc/slikc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=slikc&count_private=true&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/slikc/slikc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slikc&theme=synthwave" />
+</a>
+
+
+
+
