@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=slikc)](https://github.com/anuraghazra/github-readme-stats)
+![slikc's GitHub stats](https://github-readme-stats.vercel.app/api?username=slikc&show_icons=true&theme=radical)
