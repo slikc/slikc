@@ -11,4 +11,5 @@ slikc#0001
 
 
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/799213598228348938?theme=dark&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=doing%20cybercrime&20%20:))](https://discord.com/users/799213598228348938)
 
